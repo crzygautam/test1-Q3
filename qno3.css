@@ -1,0 +1,21 @@
+*{margin: 5px; box-sizing: border-box;}
+.nevbar{
+    background: rgb(17, 152, 193); padding: 12px; display: flex; flex-wrap: wrap;
+    justify-content: space-between;;
+    align-items: center;
+    
+}
+.nevbar ul{
+    display: flex; list-style: none;
+
+}
+.nevbar ul li  a{
+    text-decoration: none;
+    
+}  
+img{
+    width: 40px;height: 30px;
+}
+.img2{
+    width: none; height: none;
+}
